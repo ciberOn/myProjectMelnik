@@ -45,7 +45,7 @@ body{
 .menu__item:hover{
     border-bottom: 1px solid rgb(226, 85, 85);
     color: rgb(209, 70, 70);
-    transition: 1000ms;
+    transition: 500ms;
 }
 
 .main{
